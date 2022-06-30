@@ -34,7 +34,7 @@ THEN the text for that event is saved in local storage.
 THEN the saved events persist.
 ```
 
-Website: https://evgeniii7.github.io/05-Third-Party-APIs/
+Website: 
 
 
 
